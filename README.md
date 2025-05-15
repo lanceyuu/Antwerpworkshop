@@ -3,15 +3,15 @@ Pre-workshop survey
 https://bino.qualtrics.com/jfe/form/SV_3gDr0ZY4aO6wzCC  
 
 Morning Session (9:00 AM - 12:30 PM)  
-9:00 - 9:30 | Foundations
-Introduction to GenAI applications in research
-Key concepts and terminology
-Preparation for the workshop
+9:00 - 9:30 | Foundations  
+Introduction to GenAI applications in research  
+Key concepts and terminology  
+Preparation for the workshop  
 
-9:40 - 11:00 | Literature Review Management
-Literature review tools
-Literature management
-Deep research
+9:40 - 11:00 | Literature Review Management  
+Literature review tools  
+Literature management  
+Deep research  
 
 11:15 - 12:30 | Agents & Automation
 Agents
