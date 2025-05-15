@@ -1,8 +1,8 @@
-GenAI-Powered Research Methods Workshop (Hybrid)
-Pre-workshop survey 
-https://bino.qualtrics.com/jfe/form/SV_3gDr0ZY4aO6wzCC
+GenAI-Powered Research Methods Workshop  
+Pre-workshop survey   
+https://bino.qualtrics.com/jfe/form/SV_3gDr0ZY4aO6wzCC  
 
-Morning Session (9:00 AM - 12:30 PM)
+Morning Session (9:00 AM - 12:30 PM)  
 9:00 - 9:30 | Foundations
 Introduction to GenAI applications in research
 Key concepts and terminology
