@@ -19,14 +19,14 @@ No code programming
 Research workflow optimization
 Customized assistants
 
-Afternoon Session (1:30 PM - 4:00 PM)
-1:30 - 3:00 | Stimuli Generation & AI Interviewers
-Creating research materials using AI
-Implementation of AI-powered interviews
+Afternoon Session (1:30 PM - 4:00 PM)  
+1:30 - 3:00 | Stimuli Generation & AI Interviewers  
+Creating research materials using AI  
+Implementation of AI-powered interviews  
 
-3:15 - 4:00 | Text Analytics
-Annotation and theme generation
-Local model deployment for sensitive data
+3:15 - 4:00 | Text Analytics  
+Annotation and theme generation  
+Local model deployment for sensitive data  
 
 Optional: Read the assigned papers (They are all open-access)
 Gilardi, F., Alizadeh, M., & Kubli, M. (2023). ChatGPT outperforms crowd workers for text-annotation tasks. Proceedings of the National Academy of Sciences, 120(30), e2305016120. https://doi.org/10.1073/pnas.2305016120
