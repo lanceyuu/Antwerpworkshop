@@ -1,3 +1,4 @@
+https://github.com/lanceyuu/Antwerpworkshop
 GenAI-Powered Research Methods Workshop  
 Pre-workshop survey   
 https://bino.qualtrics.com/jfe/form/SV_3gDr0ZY4aO6wzCC  
