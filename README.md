@@ -1,4 +1,3 @@
-https://github.com/lanceyuu/Antwerpworkshop
 GenAI-Powered Research Methods Workshop  
 Pre-workshop survey   
 https://bino.qualtrics.com/jfe/form/SV_3gDr0ZY4aO6wzCC  
@@ -28,6 +27,11 @@ Implementation of AI-powered interviews
 3:15 - 4:00 | Text Analytics  
 Annotation and theme generation  
 Local model deployment for sensitive data  
+Please find the python file and dataset here.  
+
+Annotation using gemini https://colab.research.google.com/drive/1bkHYqJqB9_aprQcNGsfooUuzmI7Qntfc?usp=sharing  
+Annotation using zephyr 7b https://colab.research.google.com/drive/1zVnLaUDzfVxZ3pe1z633MRp6w93py8Iv?usp=sharing
+
 
 Optional: Read the assigned papers (They are all open-access)
 Gilardi, F., Alizadeh, M., & Kubli, M. (2023). ChatGPT outperforms crowd workers for text-annotation tasks. Proceedings of the National Academy of Sciences, 120(30), e2305016120. https://doi.org/10.1073/pnas.2305016120
