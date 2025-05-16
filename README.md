@@ -1,3 +1,4 @@
+Please use this padlet to share your stimuli https://padlet.com/shubinyu/share-the-stimuli-your-have-created-oh0mce136i1tz7oo
 GenAI-Powered Research Methods Workshop  
 Pre-workshop survey   
 https://bino.qualtrics.com/jfe/form/SV_3gDr0ZY4aO6wzCC  
